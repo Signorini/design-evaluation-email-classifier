@@ -8,8 +8,7 @@
 pip install pandas numpy scikit-learn scipy
 ```
 
-3. Make sure the dataset file exists at `data/out.csv`.
-4. Run the main pipeline:
+2. Run the main pipeline:
 
 ```bash
 python3 main_controller.py
